@@ -1,0 +1,5 @@
+FLAG : BITSCTF{tetris}
+
+Chal Desc: What a beautiful painting! I wonder if it can do something. 
+
+Chal Name: Gray Tree

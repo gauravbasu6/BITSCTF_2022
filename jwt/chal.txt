@@ -1,0 +1,6 @@
+Chal Name: LET ME INNNNNNNNNNNNN!
+Chal Desc: You'll know what to do. Also, the not-so-secret-key is itself. Also also, don't worry about time.
+
+;For reference (don't put in chal):
+Encrypted Flag: JBLWNYN{c4k0r_dm00b5_p3t5!?!?q4jg3_p3_15_5i1v3vx4s!!} 
+Flag : BITSCTF{j4s0n_sh00t5_w3b5!?!?m4yb3_h3_15_5p1d3rm4n!!}
